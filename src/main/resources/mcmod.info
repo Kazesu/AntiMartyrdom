@@ -1,0 +1,16 @@
+[
+{
+  "modid": "antimartyrdom",
+  "name": "Anti-Martyrdom",
+  "description": "Anti-Martyrdom by Kazesu <3",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kazesu"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
